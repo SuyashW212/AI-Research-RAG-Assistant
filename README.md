@@ -23,13 +23,6 @@ A comprehensive Retrieval Augmented Generation (RAG) system designed specificall
 └── Streamlit UI
 ```
 
-## 🤖 Fine-tuned Models
-
-Two specialized models have been fine-tuned on CVPR papers using synthetic data generation and QLoRA:
-
-- **[adithyn/qwen3-8b-4bit-cvpr-lora-full2.0](https://huggingface.co/adithyn/qwen3-8b-4bit-cvpr-lora-full2.0)** - 8B parameter model with 4-bit quantization
-- **[adithyn/qwen3-14b-cvpr-chat-full](https://huggingface.co/adithyn/qwen3-14b-cvpr-chat-full)** - 14B parameter model
-
 ## 🛠️ Setup & Installation
 
 ### Prerequisites
